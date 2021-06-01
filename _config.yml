@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huijun Sun / Profile"
+title                    : "Feng Liu / Profile"
 title_separator          : "-"
-name                     : &name "SHJ"
+name                     : &name "Feng Liu"
 description              : &description "personal description"
 url                      : https://huijun-sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huijun Sun"
+  name             : "Feng Liu"
   avatar           : "profile_icon.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
