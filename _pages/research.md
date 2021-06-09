@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research
-======
+
 
 My research is multidisciplinary, and it involves the areas of machine learning, signal processing, healthcare, dynamic systems, control theory, health informatics, and renewable energy. My primary goal is to develop novel mathematical models and machine learning algorithms to solve problems with practical impact.
 
