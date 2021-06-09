@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Events"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Honors and Awards
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Best Paper Award of INFORMS Data Science, INFORMS, 2019
+Best Paper Award, 11th International Conference of Brain Informatics, 2018
+Travel Awards, AAAI, UC Berkeley Neuroscience Data Analytics Summer School, ICERM at Brown Univerisity, IBBM at SCI U of Utah, IPAM at UCLA etc.
+Dean Fellowship, UT Arlington, 2015
+Graduate Studnet Scientific Achievement Award, HUST, 2012
+National Scholarship, Qingdao University, 2008
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Grants, Contracts, and Funds
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Encryption Chip Design with Chaotic Systems on FPGA, Single PI, HUST innovation Seed Funding, Amount: 3300$, 2011.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

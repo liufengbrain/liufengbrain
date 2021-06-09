@@ -10,6 +10,12 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
+Courses
+------
+
+Fall 2020, EM 612 Project Management of Complex Systems, Evaluation: 3.5 out of 4
+Spring 2021, EM 600 Engineering Economics and Cost Analysis
+
 Heading 1
 ======
 

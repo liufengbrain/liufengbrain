@@ -12,9 +12,7 @@ Dr. Feng Liu joined Stevens Institute of Technology as an Assistant Professor in
 
 Prof. Liu is the winner of the Best Paper Award at 11th International Conference of Brain Informatics in 2018, and the winner of the Best Paper Award of INFORMS Data Analytics Society in 2019.
 
-
-
-Google Scholar: https://scholar.google.com/citations?user=HVZdbX0AAAAJ&hl=en
+[Google Scholar Here](https://scholar.google.com/citations?user=HVZdbX0AAAAJ&hl=en)
 
 Education
 ======
@@ -47,24 +45,3 @@ Appointments
 Research Affiliate, Picower Institute for Learning and Memory, MIT, 06/2018-08/2020
 Postdoc Fellow, MGH/Harvard Medical School, 06/2018-08/2020
 Editor team, OR Tomorrow, 2018-2020
-
-Honors and Awards
-------
-
-Best Paper Award of INFORMS Data Science, INFORMS, 2019
-Best Paper Award, 11th International Conference of Brain Informatics, 2018
-Travel Awards, AAAI, UC Berkeley Neuroscience Data Analytics Summer School, ICERM at Brown Univerisity, IBBM at SCI U of Utah, IPAM at UCLA etc.
-Dean Fellowship, UT Arlington, 2015
-Graduate Studnet Scientific Achievement Award, HUST, 2012
-National Scholarship, Qingdao University, 2008
-
-Grants, Contracts, and Funds
-------
-
-Encryption Chip Design with Chaotic Systems on FPGA, Single PI, HUST innovation Seed Funding, Amount: 3300$, 2011.
-
-Courses
-------
-
-Fall 2020, EM 612 Project Management of Complex Systems, Evaluation: 3.5 out of 4
-Spring 2021, EM 600 Engineering Economics and Cost Analysis
