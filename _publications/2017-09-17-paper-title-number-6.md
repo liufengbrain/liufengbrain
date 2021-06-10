@@ -1,7 +1,7 @@
 ---
 title: "A novel adaptive genetic algorithm for wine farm layout optimization"
 collection: publications
-permalink: /publication/2019-03-20-paper-title-number-3
+permalink: /publication/2017-09-17-paper-title-number-6
 excerpt: 'Liu, F.; Stephen, E.; Prerau, M.; Purdon, P. (2019)'
 date: 2017-09-17
 venue: '2017 North American Power Symposium (NAPS)'
