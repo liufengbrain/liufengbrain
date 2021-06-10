@@ -49,28 +49,18 @@
         {% endif %}
     
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <h2>test9</h2>
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }} test1</p>
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }} test2</p>
     <p class="archive__item-excerpt" itemprop="description">{{ markdownify }} test3</p>
-    <h2>test10</h2>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <h2>test8</h2>
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    <h2>test7</h2>
     {% endif %}
-    <h2>test2</h2>
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u> View here </u></a></p>
-    <p>test3</p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-     <p>test4</p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-      <p>test5</p>
-    {% else%}
-    	<p>test</p>
     {% endif %}
 
   </article>
