@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Events"
+title: "Honors and Awards"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Honors and Awards
-======
+
 
 Best Paper Award of INFORMS Data Science, INFORMS, 2019
 Best Paper Award, 11th International Conference of Brain Informatics, 2018
