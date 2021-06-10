@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Hoboken, United States"
 ---
 
-Courses 1
+Courses
 ======
 
 1. EM 612 Project Management of Complex Systems
