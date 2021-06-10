@@ -50,7 +50,7 @@
     
     {% if post.excerpt and site.read_more != 'enabled' %}
     <h2>test9</h2>
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }} test</p>
     <h2>test10</h2>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <h2>test8</h2>
