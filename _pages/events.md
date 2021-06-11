@@ -18,16 +18,19 @@ Dean Fellowship, UT Arlington, 2015
 Graduate Studnet Scientific Achievement Award, HUST, 2012
 National Scholarship, Qingdao University, 2008
 
+
 Grants, Contracts, and Funds
 ======
 
 Encryption Chip Design with Chaotic Systems on FPGA, Single PI, HUST innovation Seed Funding, Amount: 3300$, 2011.
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 Teaching
 ======
